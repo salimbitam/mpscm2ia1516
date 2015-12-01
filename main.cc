@@ -11,4 +11,5 @@ void main()
   cout << "Master 2 IA" << endl;
   cout << "Master 2 IA" << endl;
   cout << "Hi" << endl;
+  cout << "Hello" << endl;
 }
