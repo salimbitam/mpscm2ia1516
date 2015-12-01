@@ -7,6 +7,8 @@ void main()
   cout << "hello" << endl;
    cout << "helloooooo!!!" << endl;
     cout<<"salamo 3alaycom";
+    
+    cout << "zraari" << endl;
 
   cout << "end of mini project!" << endl;
   cout << "Master 2 IA" << endl;
