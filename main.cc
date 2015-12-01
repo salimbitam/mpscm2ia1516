@@ -6,7 +6,6 @@ void main()
 {
   cout << "hello" << endl;
    cout << "helloooooo!!!" << endl;
-    cout <<"ana looz";
     
 
   cout << "end of mini project!" << endl;
