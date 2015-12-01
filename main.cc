@@ -6,4 +6,5 @@ void main()
 {
   cout << "hello" << endl;
   cout << "end of mini project!" << endl;
-}
+} }
+
