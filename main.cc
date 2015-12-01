@@ -5,6 +5,8 @@ using namespace std;
 void main()
 {
   cout << "hello" << endl;
+   cout << "helloooooo!!!" << endl;
+    
     
 
   cout << "end of mini project!" << endl;
