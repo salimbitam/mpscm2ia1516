@@ -12,6 +12,6 @@ void main()
     cout << "zraari" << endl;
 
   cout << "end of mini project!" << endl;
-  cout << "Master 2 IA" << endl;
+  cout << "Master 2  IA" << endl;
   cout << "Master 2 IA" << endl;
 }
